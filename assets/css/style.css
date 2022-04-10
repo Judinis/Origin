@@ -1,0 +1,25 @@
+
+body {
+    background-color: #000;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff
+}
+
+.quienes-somos {
+    margin-right: 8%;
+
+}
+
+.iconos {
+    background-color: #07caf0;
+    padding-left: 50%;
+    padding-right: 45%;
+    font-size: 1.5rem;
+
+}
+
+.card-body {
+    background-color: #07caf0;
+}
+
+
