@@ -5,6 +5,10 @@ body {
     color: #fff
 }
 
+.color {
+    color:#fff;
+}
+
 .quienes-somos {
     margin-right: 8%;
 
@@ -22,4 +26,18 @@ body {
     background-color: #07caf0;
 }
 
+.mensaje {
+    padding-bottom: 15%;
+}
+
+.btn {
+    background-color: #07caf0;
+}
+
+footer {
+    background-color: #07caf0;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+
+}
 
